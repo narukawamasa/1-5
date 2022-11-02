@@ -33,6 +33,18 @@ header .heading {
  .main {
    width: 100%;
    height: 700px;
+   padding: 50px 0;
+   margin: 0 auto;
+   display: flex;
+   justify-content: center;
+ }
+
+ .main-in {
+   width:800px;
+   height:600px;
+   display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
  }
 
  .main-e6ffe9 {
