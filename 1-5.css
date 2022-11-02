@@ -33,7 +33,78 @@ header .heading {
  .main {
    width: 100%;
    height: 700px;
-   background-color: red;
+ }
+
+ .main-e6ffe9 {
+   width: 200px;
+   height: 200px;
+   background-color: #e6ffe9;
+ }
+
+ .main-cbffd3 {
+   width: 200px;
+   height: 200px;
+   background-color: #cdffd3;
+ }
+
+ .main-aeffbd {
+   width: 200px;
+   height: 200px;
+   background-color: #aeffbd;
+ }
+
+ .main-93ffab {
+   width: 200px;
+   height: 200px;
+   background-color: #93ffab;
+ }
+
+ .main-f3ffd8 {
+   width: 200px;
+   height: 200px;
+   background-color: #f3ffd8;
+ }
+
+ .main-edffbe {
+   width: 200px;
+   height: 200px;
+   background-color: #edffbe;
+ }
+
+ .main-e9ffa5 {
+   width: 200px;
+   height: 200px;
+   background-color: #e9ffa5;
+ }
+
+ .main-e4ff8d {
+   width: 200px;
+   height: 200px;
+   background-color: #e4ff8d;
+ }
+
+ .main-d9e5ff {
+   width: 200px;
+   height: 200px;
+   background-color: #d9e5ff;
+ }
+
+ .main-bad3ff {
+   width: 200px;
+   height: 200px;
+   background-color: #bad3ff;
+ }
+
+ .main-a4c6ff {
+   width: 200px;
+   height: 200px;
+   background-color: #a4c6ff;
+ }
+
+ .main-8eb8ff {
+   width: 200px;
+   height: 200px;
+   background-color: #8eb8ff;
  }
 
  footer {
@@ -41,5 +112,9 @@ header .heading {
    height: 120px;
    text-align: center;
    line-height: 120px;
-   background-color: #fff;
+   background-color: #848282;
+ }
+
+ .footer-text {
+   color: #fff;
  }
